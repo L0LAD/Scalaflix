@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "status": "client",
+        "name": "Odd98",
+        "email": "audrey@gmail.com",
+        "playlist": ["X-Men", "X2", "Deadpool", "Avengers"],
+        "suggestions": ["The New Mutants", "Thor", "The Hulk"]
+    },
+    {
+        "id": 2,
+        "status": "client",
+        "name": "Jeff2808",
+        "email": "geoffrey@gmail.com",
+        "playlist": ["The Walking Dead", "Fear the Walking Dead"],
+        "suggestions": ["Z Nation", "Into the Night"]
+    },
+    {
+        "id": 3,
+        "status": "accountant",
+        "name": "Corinne",
+        "email": "compta@scalaflix.com",
+        "playlist": [],
+        "suggestions": []
+    },
+    {
+        "id": 4,
+        "status": "catalog",
+        "name": "Jean-Pierre Pernaut",
+        "email": "jeanpierre.pernaut@scalaflix.com",
+        "playlist": [],
+        "suggestions": []
+    },
+    {
+        "id": 5,
+        "status": "bot",
+        "name": "Bot-bot le robot",
+        "email": "bot@scalaflix.com",
+        "playlist": [],
+        "suggestions": []
+    },
+    {
+        "id": 6,
+        "status": "admin",
+        "name": "Paul Friedel",
+        "email": "legrandmanitou@scalaflix.com",
+        "playlist": [],
+        "suggestions": []
+    }
+]
