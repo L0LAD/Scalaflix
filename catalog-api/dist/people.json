@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Hugh Jackman",
+        "role": "actor"
+    },
+    {
+        "id": 2,
+        "name": "Halle Berry",
+        "role": "actor"
+    },
+    {
+        "id": 3,
+        "name": "Patrick Stewart",
+        "role": "actor"
+    },
+    {
+        "id": 4,
+        "name": "Christian Bale",
+        "role": "actor"
+    },
+    {
+        "id": 5,
+        "name": "Michael Caine",
+        "role": "actor"
+    },
+    {
+        "id": 6,
+        "name": "Christopher Nolan",
+        "role": "director"
+    },
+    {
+        "id": 7,
+        "name": "Steven Spielberg",
+        "role": "director"
+    },
+    {
+        "id": 8,
+        "name": "George Lucas",
+        "role": "director"
+    },
+    {
+        "id": 9,
+        "name": "Bryan Singer",
+        "role": "director"
+    }
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"description": "Action",
+	},
+	{
+		"id": 2,
+		"description": "Adventure",
+	},
+	{
+		"id": 3,
+		"description": "Superhero",
+	},
+	{
+		"id": 4,
+		"description": "Horror",
+	},
+	{
+		"id": 5,
+		"description": "Fantasy",
+	},
+	{
+		"id": 6,
+		"description": "Comedy",
+	},
+	{
+		"id": 7,
+		"description": "Science fiction",
+	},
+	{
+		"id": 8,
+		"description": "Thriller",
+	},
+	{
+		"id": 9,
+		"description": "Drama",
+	}
+]

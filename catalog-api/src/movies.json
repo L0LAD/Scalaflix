@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "X-Men",
+		"director": 9,
+		"cast": [1, 2, 3],
+		"duration": 104,
+		"genres": [3],
+		"tags": ["Superheroes","X-Men","Fantasy","Science-fiction","Marvel","Mutants"]
+	},
+	{
+		"id": 2,
+		"title": "The Prestige",
+		"director": 9,
+		"cast": [1, 4, 5],
+		"duration": 130,
+		"genres": [7, 8, 9],
+		"tags": ["Magic","Mystery","Illusion"]
+	},
+	{
+		"id": 3,
+		"title": "The Dark Knight Rises",
+		"director": 6,
+		"cast": [4, 5],
+		"duration": 166,
+		"genres": [1, 8],
+		"tags": ["Superheroes","Batman","Fantasy","Science-fiction","DC"]
+	}
+]
